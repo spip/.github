@@ -21,5 +21,5 @@ maintenu par sa communauté avec tendresse.
 ## Politique de sécurité
 
 - [Signaler une faille de sécurité](https://www.spip.net/fr_article6688.html)
-- [SECURITY.md](SECURITY.md)
+- [Reporting a Vulnerability](https://www.spip.net/en_article6689.html)
 
